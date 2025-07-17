@@ -6,4 +6,6 @@ fun lulz(i: String){
 
 fun main() {
     lulz(" RYTP")
+    println("нажмите на клавишу ENTER чтобы выйти...")
+    readln()
 }
